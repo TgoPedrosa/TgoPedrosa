@@ -1,11 +1,12 @@
 ### Hi there, I'm Tiago 👋
 I'm a data scientist, looking to improve my knoledge in data science and machine learning engineering.
 
-- 🔭 I’m currently working as a data scientist specialist in computer vision
+- 🔭 I’m currently working as a data scientist
 - 📫 How to reach me: tgopedrosa@gmail.com and [linkedin](https://www.linkedin.com/in/tiago-pedrosa-b24606b2/)
 
 
 ### Experience
+- Data scientist (2022-2023, iFood)
 - Data scientist (2021-, Engineering Brasil)
 - Artificial Intelligence Residency Program (2020-2021, SENAI)
 - Systems Development Analyst (2019-2020, TARS Tecnologia)
